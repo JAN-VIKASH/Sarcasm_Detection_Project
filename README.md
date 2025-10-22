@@ -43,5 +43,5 @@ streamlit run app.py
 - pandas, numpy
 
 Built with ❤️
-here is our website:
-https://sarcasmdetectionproject-uqmqg3ffxvs4nrms48dvgc.streamlit.app/
+🌐 **Live Demo:** [Try it here!](https://sarcasmdetectionproject-uqmqg3ffxvs4nrms48dvgc.streamlit.app/)
+
